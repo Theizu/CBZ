@@ -38,7 +38,7 @@ To use this script, you need the following:
    ```bash
    python pdftocbz.py
 
-2. **Resize CBZ**
+2. **Convert PDF and Resize CBZ**
    To reduce the size of the CBZ files use the following command. By default all images resized to a maximum of 1448 x 1072 pixels.
    ```bash
    python resize.py
